@@ -1,0 +1,3 @@
+nodemon .
+
+cmd /k
